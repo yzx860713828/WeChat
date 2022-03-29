@@ -1,0 +1,11 @@
+<!--pages/demo3/demo3.wxml-->
+<input placeholder='输入名字' bindinput='addname'></input>
+<input placeholder='输入年龄' bindinput='addage'></input>
+<input placeholder='填写要删除的id' bindinput='deldatainput'></input>
+<button  bindtap="addData">添加数据</button>
+<button  bindtap="getData">查询数据</button>
+<input placeholder="填写要删除的数据" bindinput='deldatainput'></input>
+<button bindtap="deldata">删除数据</button>
+<input placeholder="请输入你想要更新的数据id" bindinput="updatainput"></input>
+<input placeholder="请输入更改后的用户年龄" bindinput="addage"></input>
+<button bindtap="updata">更新数据</button>

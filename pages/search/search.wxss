@@ -1,0 +1,54 @@
+/* pages/search/search.wxss */
+.color{
+    background-color: #6495ed;
+    height:72rpx;
+}
+.in{
+    width:686rpx;
+    margin: 0 32rpx;
+    height:72rpx;
+    -webkit-overflow-scrolling: touch;
+    background-color:#fff;
+    border-radius: 32rpx;
+    font-size:24rpx;
+    color:#1f272a;
+    padding-left:96rpx;
+    box-sizing:border-box;
+    float:left;
+    background:"search";
+}
+.hello{
+    font-size:28rpx;
+}
+.academy{
+    margin-top: 56rpx;
+    margin-right: 60rpx;
+    border-color:brown;
+   float:left;
+}
+.inter{
+    float:left;
+    margin-left: 20rpx;
+    margin-top: 56rpx;
+    margin-right:20rpx;
+}
+.test{
+    text-align: center;
+    font-weight: 700;
+}
+.more{
+    width:100%;
+    padding-right:500rpx;
+    margin-top: 56rpx;
+    border-color:brown;
+   float:left;
+}
+.major{
+    float:left;
+    float:top;
+}
+.id{
+    margin-top: 56rpx;
+    border-style: outset;
+    float:left;
+}

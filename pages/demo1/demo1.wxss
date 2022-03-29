@@ -1,0 +1,32 @@
+/* pages/demo1/demo1.wxss */
+.info1{
+    margin-top: 112rpx;
+    font-weight: 700;
+    box-sizing:border-box;
+}
+.a{
+    height:56rpx;
+}
+.info2{
+    margin-top: 100rpx;
+    font-weight: 700;
+    box-sizing:border-box;
+    float:right;
+}
+.sb{
+    box-sizing: border-box;
+    border: 1px solid red;
+    width:200rpx;
+    height:60rpx;
+    border-radius: 50%;
+    overflow:hidden;
+    margin-left: 56rpx;
+    margin-top: 200rpx;
+}
+.id1{
+    margin-left:300rpx;
+    margin-top: 112rpx;
+}
+.id3{
+    margin-top: 112rpx;
+}

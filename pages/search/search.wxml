@@ -1,0 +1,25 @@
+<!--pages/search/search.wxml-->
+<!--<text>pages/search/search.wxml</text>-->
+<view class="test"><strong>可根据院系/专业/课程查找</strong></view>
+<view class="color">
+<input type="text" bindinput="myfunction" class="in" maxlength="8" placeholder-class="hello"placeholder="搜索课程："/>
+</view>
+<view class="academy" style="color:brown">院系:</view>
+<navigator url="/pages/academic/academic"><view style="color:brown" class="inter">国际学院</view></navigator>
+<navigator url="/pages/academic/academic"><test margin-left="1px" style="color:brown"  class="inter">人文学院  </test></navigator>
+<navigator url="/pages/academic/academic"><test style="color:brown"  class="inter">理学院...</test></navigator>
+<navigator url="/pages/academic/academic"><view style="color:brown" class="more">更多院系</view></navigator>
+<view class="academy" style="color:brown">专业:</view>
+<navigator url="/pages/major/major"><view style="color:brown" class="inter">物联网</view></navigator>
+<navigator url="/pages/major/major"><test margin-left="1px" style="color:brown"  class="inter">通信工程 </test></navigator>
+<navigator url="/pages/major/major"><test style="color:brown"  class="inter">大数据...</test></navigator>
+<navigator url="/pages/major/major"><view style="color:brown" class="more">更多专业</view></navigator>
+<view class="id">您可能感兴趣的课：</view>
+
+
+
+
+<!--<text wx:for="{{list}}" wx:for-item="item" wx:for-index="index">
+{{item.academy}}
+</text>-->
+

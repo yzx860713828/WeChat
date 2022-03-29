@@ -1,0 +1,8 @@
+/* pages/img/img.wxss */
+swipter{
+    width:100%;
+    height:calc(100vw*1552/720);
+}
+image{
+    width:100%;
+}

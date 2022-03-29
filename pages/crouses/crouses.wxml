@@ -1,0 +1,2 @@
+<!--pages/crouses/crouses.wxml-->
+<button bindtap="getinfo">获取全部课程信息</button>

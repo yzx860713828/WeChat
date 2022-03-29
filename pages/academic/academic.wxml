@@ -1,0 +1,18 @@
+<!--pages/academic/academic.wxml-->
+<!--default默认大小 mini小尺寸
+type用来控制按钮颜色 default灰 warn 红色 primary绿色
+plain控制是否漏空
+loading等待图标-->
+<navigator url="/pages/crouses/crouses"><button class="id1">国际学院</button></navigator>
+<button class="id1">人文学院</button>
+<button class="id1">理学院</button>
+<button class="id2">计算机学院</button>
+<button class="id2">现代邮政学院</button>
+<button class="id2">人工智能学院</button>
+<button class="id3">信息与通信工程学院</button>
+<button class="id3">网络空间与安全学院</button>
+<button class="id3">数字媒体与设计艺术学院</button>
+<button class="id2">电子工程学院</button>
+<button class="id2">经济管理学院</button>
+<button class="id3">马克思主义学院</button>
+

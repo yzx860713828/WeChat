@@ -1,0 +1,6 @@
+<!--pages/demo5/demo5.wxml-->
+<input placeholder="输入a的值" bindinput="getnuma"></input>
+<input placeholder="输入b的值" bindinput="getnumb"></input>
+<button bindtap="sum">云函数获取加法</button>
+<button bindtap="shujuku">数据库api获取数据</button>
+<button bindtap="yunhanshu">云函数获取数据</button>

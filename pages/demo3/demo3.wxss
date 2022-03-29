@@ -1,0 +1,10 @@
+/* pages/demo3/demo3.wxss */
+/*<!--大小适配-*/
+/*把px改成rpx可实现大小随屏幕适配*/
+view{
+    width:200rpx;
+    font-size: 40rpx;
+    height:200rpx;
+    background-color: aqua;
+
+}

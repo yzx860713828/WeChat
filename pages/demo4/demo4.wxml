@@ -1,0 +1,3 @@
+<!--pages/demo4/demo4.wxml-->
+<tabs tabs='{{tabs}}'></tabs>
+

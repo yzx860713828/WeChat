@@ -1,0 +1,4 @@
+<!--pages/demo6/demo6.wxml-->
+<button bindtap="upword">上传excel</button>
+<button bindtap="upload">上传文件</button>
+<image src="{{wordurl}}"></image>

@@ -1,0 +1,59 @@
+{
+  "pages":[ 
+    "pages/index/index",
+    "pages/demo4/demo4",
+    "pages/crouses/crouses",
+    "pages/academic/academic",
+    "pages/demo6/demo6", 
+    "pages/demo5/demo5", 
+   "pages/demo3/demo3", 
+    
+    
+    "pages/major/major",
+    "pages/course/course",
+    
+    
+    "pages/demo2/demo2",
+    
+    "pages/logs/logs",
+    "pages/img/img",
+    "pages/search/search",
+    "pages/demo1/demo1"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#0094ff",
+    "navigationBarTitleText": "我的应用",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh":true
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "我的课表",
+      "iconPath": "icon/-center.png",
+      "selectedIconPath": "icon/center.png"
+    },
+    {
+      "pagePath": "pages/img/img",
+      "text": "更多好课",
+      "iconPath": "icon/-point.png",
+      "selectedIconPath": "icon/point.png"
+    },
+    {
+      "pagePath": "pages/search/search",
+      "text": "找课",
+      "iconPath": "icon/home.png",
+      "selectedIconPath": "icon/home.png"
+    },
+    {
+      "pagePath": "pages/demo1/demo1",
+      "text": "个人信息",
+      "iconPath": "icon/times.png",
+      "selectedIconPath": "icon/times.png"
+    }
+  ]
+  },
+
+  "sitemapLocation": "sitemap.json"
+}

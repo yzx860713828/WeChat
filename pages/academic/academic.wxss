@@ -1,0 +1,43 @@
+/* pages/academic/academic.wxss */
+page{
+    background-color: floralwhite;
+}
+.id1{
+    border-radius: 50%;
+    width: 160rpx;
+    height:160rpx;
+    background-color: rgb(76, 76, 107);
+    border-color:#ff3300;
+    font-size: 35rpx;
+    font-kerning: normal;
+    float:left;
+    margin-top: 120rpx;
+    margin-right:40rpx;
+    margin-left:40rpx;
+}
+.id2{
+    border-radius: 50%;
+    width: 160rpx;
+    height:160rpx;
+    background-color: rgb(76, 76, 107);
+    border-color:#ff3300;
+    font-size: 35rpx;
+    font-kerning: normal;
+    float:left;
+    margin-top: 120rpx;
+    margin-right:40rpx;
+    margin-left:40rpx;
+}
+.id3{
+    border-radius: 50%;
+    width: 160rpx;
+    height:160rpx;
+    background-color: rgb(76, 76, 107);
+    border-color:#ff3300;
+    font-size: 23rpx;
+    font-kerning: normal;
+    float:left;
+    margin-top: 120rpx;
+    margin-right:40rpx;
+    margin-left:40rpx;
+}
